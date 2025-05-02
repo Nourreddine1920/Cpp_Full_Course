@@ -17,7 +17,7 @@ int main()
     cin >> num;
 
     // logic
-    first = num / 100;
+    first = num / 100;  
     last = num % 10;
     mid = (num / 10) % 10;
     mid2 = (num % 100) / 10;

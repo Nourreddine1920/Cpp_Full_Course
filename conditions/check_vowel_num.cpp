@@ -7,7 +7,7 @@ int main()
 {
     char mychar;
 
-    cout << "Enter a charater" << endl;
+    cout << "Enter a character" << endl;
     cin >> mychar;
 
     if (mychar == 'a' || mychar == 'e' || mychar == 'i' || mychar == 'o' || mychar == 'u')
